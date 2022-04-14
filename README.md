@@ -1,9 +1,9 @@
-#Ola, meu nome é Maximillian Borba, conhecido também por MaxBorba, mas podem me chamar de Max
+#Ola, meu nome é Maximillian Borba, conhecido também por MaxBorba, ou simplesmente Max
 
 ##e-mail de contato - maximillian.borba@escola.pr.gov.br
 
 - 👀 Estou interessado em ampliar os conhecimentos na area computacional 
-- Eestou realmente inciando este processo de inserção na programção
+- Estou realmente inciando este processo de inserção na programção
 
 
 <!---
