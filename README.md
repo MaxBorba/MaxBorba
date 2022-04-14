@@ -3,7 +3,7 @@
 ##e-mail de contato - maximillian.borba@escola.pr.gov.br
 
 - 👀 Estou interessado em ampliar os conhecimentos na area computacional 
-- 🌱 estou realmente inciando este processo de inserção na programção
+- Eestou realmente inciando este processo de inserção na programção
 
 
 <!---
