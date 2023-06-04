@@ -2,8 +2,9 @@
 
 ##e-mail de contato - maximillian.borba@escola.pr.gov.br
 
-- 👀 Estou interessado em ampliar os conhecimentos na area computacional 
-- Estou realmente inciando este processo de inserção na programção
+- 👀 sou curioso por natureza e estou sempre interessado em ampliar os meus conhecimentos
+- Em especial na area da AI
+- Estou realmente inciando este processo de inserção na programação
 
 
 <!---
