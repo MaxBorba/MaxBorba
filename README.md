@@ -4,7 +4,11 @@
 
 - 👀 sou curioso por natureza e estou sempre interessado em ampliar os meus conhecimentos
 - Em especial na area da AI
-- Estou realmente inciando este processo de inserção na programação
+- Atualmente atuo como embaixador EDUTECH no NRE de Goioerê, responsável pela demanda de Pesanmento Computacional nas escolas jurisdicionadas a este NRE
+- Já atuei como coordenador dos JEPs nos anos de 2014 a 2016 e na feasse regional de de 2023
+- Além de ter atuado como coordenador das pasta específica de EF, coordenador de AETEs, Atleta do Futuruo, Grêmio Estudantil, Robótica
+- Tive experinência no exterior com a área de Educação Física inclusive como técnico de voleibol federado pela HOA - USA e  aqui no Brasil pela CBV (onde atuei por muitos anos como técnico nas categorias de base)
+- E agora estou migrando para a área da programação como um novo desafio
 
 
 <!---
